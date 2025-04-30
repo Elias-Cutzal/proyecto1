@@ -1,5 +1,12 @@
+---
+name: "Solicitu de Mejoras"
+about: "Sugiere una mejora."
+title: "[BUG] - Descripción de la mejora"
+labels: mejora
+assignees: ""
+---
 # 🎯 Solicitud de mejora
-
+---
 ## 📝 Descripción de la mejora
 Describe brevemente la mejora que se propone
 ...
